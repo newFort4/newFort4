@@ -1,4 +1,4 @@
-Hi 👋 My name is David Olejnik ==============================  Developer, Engineer -------------------  I've been learning to code 5+ years. Currently I slowly work on my game in Unity. Recently I recreated NES emulator. I like to have fun with new technologies.  * 🌍  I'm based in Łódź 🇵🇱 * ✉️  You can contact me at [Davydon@me.com](mailto:Davydon@me.com) * 🧠  I'm learning Advanced Azure * 🤝  I'm open to collaborating on creating new technologies
+Hi 👋 My name is David Olejnik ==============================  Developer, Engineer -------------------  I've been learning to code 5+ years. Currently I slowly work on my game in Unity. Recently I recreated NES emulator. I like to have fun with new technologies.  * 🌍  I'm based in Łódź 🇵🇱 * ✉️  You can contact me at [Davydon@me.com](mailto:Davydon@me.com) * 🧠  I'm learning Advanced Azure * 🤝  I'm open to collaborating on creating new technologies
 
 <a href="https://www.github.com/newFort4" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/newFort4?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
